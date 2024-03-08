@@ -16,8 +16,8 @@ public class TestingNetcodeUI : MonoBehaviour
             NetworkManager.Singleton.StartHost();
             Hide();
         });
-        startHostButton.onClick.AddListener(() => {
-            Debug.Log("HOST");
+        startClientButton.onClick.AddListener(() => {
+            Debug.Log("CLIENT");
             NetworkManager.Singleton.StartClient();
             Hide();
         });
