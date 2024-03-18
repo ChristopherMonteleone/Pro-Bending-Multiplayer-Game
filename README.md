@@ -6,7 +6,6 @@
 <h1>Pro Bending Multiplayer Unity Project</h1>
 </head>
 <body>
-<h2>Pro Bending Multiplayer Unity Project</h2>
 <p>Welcome to Pro Bending Multiplayer Unity Project, a competitive multiplayer game prototype inspired by Avatar: The Last Airbender's professional bending sport. Dive into thrilling gameplay, engage in strategic battles, and experience the excitement of a first person competitive bending experience!</p>
 
 <h2>Overview</h2>
