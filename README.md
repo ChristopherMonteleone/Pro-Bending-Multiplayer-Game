@@ -11,7 +11,7 @@
 <h2>Overview</h2>
 <p>Pro Bending Multiplayer Unity Project delivers an immersive and dynamic gameplay experience within the Unity game engine. Engage in fast-paced multiplayer battles inspired by Avatar: The Last Airbender's pro-bending sport, where teams compete to dominate the arena using bending abilities.</p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wBKa9knHpUk?si=Hbt5-3olfziHNBtQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<h3>See the current implementation (very early work in progress): https://www.youtube.com/watch?v=wBKa9knHpUk</h3>
 
 <h2>Intended Features (Work in progress)</h2>
 <ul>
