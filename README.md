@@ -14,7 +14,7 @@
 <h3>See the current implementation (very early work in progress): </h3>
 <h4>https://www.youtube.com/watch?v=wBKa9knHpUk</h4>
 
-<h2>Intended Features (Work in progress)</h2>
+<h2>Intended Features</h2>
 <ul>
   <li><strong>Competitive Multiplayer:</strong> Engage in intense battles against other players in real-time multiplayer matches.</li>
   <li><strong>Avatar-Inspired Bending Abilities:</strong> Master various bending elements such as water, earth, and fire to outmaneuver and outplay your opponents.</li>
