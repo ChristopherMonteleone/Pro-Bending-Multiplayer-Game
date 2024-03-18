@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<h1>Pro Bending Multiplayer Unity Project (Very Early Work in Progress)</h1>
+<h1>Pro Bending Multiplayer Unity Project</h1>
 </head>
 <body>
 <p>Welcome to Pro Bending Multiplayer Unity Project, a competitive multiplayer game prototype inspired by Avatar: The Last Airbender's professional bending sport. Dive into thrilling gameplay, engage in strategic battles, and experience the excitement of a first person competitive bending experience!</p>
