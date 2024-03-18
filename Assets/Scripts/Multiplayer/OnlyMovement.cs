@@ -66,7 +66,8 @@ public class OnlyMovement : NetworkBehaviour {
         GameObject cameraObject = new GameObject("PlayerCamera");
         cameraObject.transform.SetParent(transform);
         Camera newCamera = cameraObject.AddComponent<Camera>();
-        // Add any additional settings you need for the camera
+        // Shift camera up by one unit
+        cameraObject.transform.localPosition += (Vector3.up / 2);
         return newCamera;
     }
 
